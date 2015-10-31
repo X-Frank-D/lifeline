@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/eclipse/programs/ABC/ABC.iml" filepath="D:/eclipse/programs/ABC/ABC.iml" />
+      <module fileurl="file://D:/eclipse/programs/Animals/Animals.iml" filepath="D:/eclipse/programs/Animals/Animals.iml" />
+      <module fileurl="file://D:/eclipse/programs/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="D:/eclipse/programs/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://D:/eclipse/programs/Text/Text.iml" filepath="D:/eclipse/programs/Text/Text.iml" />
+      <module fileurl="file://D:/eclipse/programs/com.rock.cyxbs/com.rock.cyxbs.iml" filepath="D:/eclipse/programs/com.rock.cyxbs/com.rock.cyxbs.iml" />
+      <module fileurl="file://D:/eclipse/programs/tixing/tixing.iml" filepath="D:/eclipse/programs/tixing/tixing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoos/zoos.iml" filepath="$PROJECT_DIR$/zoos/zoos.iml" />
+    </modules>
+  </component>
+</project>
