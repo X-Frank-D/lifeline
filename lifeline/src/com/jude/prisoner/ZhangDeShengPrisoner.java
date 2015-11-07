@@ -12,7 +12,7 @@ public class ZhangDeShengPrisoner implements Prisoner {
 
     @Override
     public String getName() {
-        return "ÕÅµÂêÉ2015211769";
+        return "å¼ å¾·æ™Ÿ2015211769";
     }
 
     @Override
