@@ -29,7 +29,6 @@ public class ZhangDeShengPrisoner implements Prisoner {
 
     @Override
     public void result(boolean survived) {
-
     }
 
 }
